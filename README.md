@@ -1,0 +1,2 @@
+# pyGraphGenerator
+Generates random graphs.
